@@ -1,0 +1,5 @@
+t = (1,2,3,"string"," goat")
+l = list(t)
+l.append("Tiger")
+t = tuple(l)
+print(t)
