@@ -1,0 +1,15 @@
+import math
+value = 4.35
+print(math.floor(value))
+print(math.ceil(value))
+print(round(value))
+print(math.pi)
+# print(round(4.5))
+# print(round(5.5))
+# print(round(10.5))
+# print(round(7.5))
+print(math.e)
+print(math.nan)
+print(math.log(math.e))
+print(math.log(100,10))
+print(math.sin(10))
